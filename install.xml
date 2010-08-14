@@ -1,0 +1,16 @@
+<install>
+	<name>ofxStringEncoders</name>
+	<version>0.01</version>
+	<author>Diederick Huijbers</author>
+	<description><![CDATA[
+	Very early state. Note that you need to run: $ ./configure && make at least once to create the config.h file.
+	Copy this file to the src/lib/stringencoder directory. 
+	Only tested on mac.
+		]]>
+	<url></url>
+	<add>
+		<include>
+			<path>../../../addons_diederick/ofxStringEncoders/src/lib/stringencoders/</path>
+		</include>
+	</add>
+</install>
