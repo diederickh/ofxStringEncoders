@@ -10,6 +10,7 @@
 	<url></url>
 	<add>
 		<include>
+			<path>../../../addons_diederick/ofxStringEncoders/src/</path>
 			<path>../../../addons_diederick/ofxStringEncoders/src/lib/stringencoders/</path>
 		</include>
 	</add>
